@@ -40,8 +40,8 @@ const Timeline = () => {
           <p>
             Sprint 05(Goal): Split the application into two portals. For the
             customer site, allow users to browse applications and experience
-            basic functionality. Complete subscribe page and primary features of
-            the web application.
+            basic functionality. Complete subscription page and primary features
+            of the web application.
           </p>
         </li>
         <li>

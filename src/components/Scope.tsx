@@ -4,25 +4,26 @@ const Scope = () => {
       <h1>Scope</h1>
       <ul style={{ display: "grid" }}>
         <li style={{ padding: "5px" }}>
-          The applications will address the online presence issue. Social media
-          and other advertising parties will be one way to introduce this web
-          application.
+          The application will allow browsing and purchasing products while
+          maintaining cart state with no user sign-in required.
         </li>
         <li style={{ padding: "5px" }}>
-          The application will allow browsing products and maintaining a state
-          while no user sign in. Some technical solutions will let us help users
-          maintain a state of carts and sessions without accounts. Verification
-          usage of third-party software like stripe will allow verification of
-          identity.
+          Allow users to purchase products using billing verification from
+          third-party software like stripe.
         </li>
         <li style={{ padding: "5px" }}>
-          There will also be a portal version of the application that will allow
-          the owner or admin to access and manage data in the web application.
-          This version will require an account because we want security.
+          Create an admin portal for the owner to add, delete and modify product
+          information. This portal will require login credentials.
         </li>
         <li style={{ padding: "5px" }}>
-          The project's goal is to upload a product to be sold and buy that
-          product online.
+          The project's goal is to create an fully functioning e-commerce
+          website.
+        </li>
+        <li style={{ padding: "5px" }}>
+          Online advertisement is also another issue that will be resolved using
+          search engine optimizations. Furthermore, their social media accounts
+          will have links to the e-commerce website for users that want to
+          purchase the product.
         </li>
       </ul>
     </>
