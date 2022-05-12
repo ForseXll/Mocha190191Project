@@ -48,7 +48,7 @@ The software built by this team has all of clients desired features.
 - **Justin Singh** - I have 3+ years working with React and building reusable components. In my free time I am hard stuck plat in Overwatch but I will climb when I get good.
 - **Jared Petersen** - I'm a programmer and trained graphic designer. I make electronic music and game mods in my spare time. I also own a business designing and selling 3D printed mechanical puzzles.
 - **Christian Suarez** - I enjoy making a meal or two. I've set a clear goal of creating programs to make people’s lives easier to gain a life of leisure.
-- **Monica Abigail Suase** - CheerLeader of Team Mocha.
+- **Monica Abigail Suase** - I enjoy creating art. After receiving my degree, I hope to contribute to more great projects.
 
 # Our Sprint Process
 
